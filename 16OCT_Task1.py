@@ -12,6 +12,8 @@ elif score >= 60 and score <= 69:
     print("Grade D")
 elif score >= 0 and score <= 59:
     print("Grade F")
+else:
+    print("invalid input")
 
 print("Leap Year Program")
 #Create a program that determines whether a given year is a leap year.
