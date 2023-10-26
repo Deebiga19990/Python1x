@@ -7,5 +7,6 @@ def calculate(number):
 
 
 
+
 number= int(input("Enter a number\n"))
 print("sum of digits in given number is",calculate(number),sep=" ")
