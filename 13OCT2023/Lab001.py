@@ -1,0 +1,10 @@
+a=int(input("Enter num1\n"))
+b=int(input("Enter num2\n"))
+
+print("Sum =",a+b)
+print("Difference =",a-b)
+print("Product =",a*b)
+print("Division =",a/b)
+print("Modulus =",a%b)
+print("Exponential =",a**b)
+print("Flow_Division =", a//b)
